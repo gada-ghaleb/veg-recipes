@@ -5,7 +5,7 @@ Veg Recipes App è un'applicazione web che permette agli utenti di cercare ricet
 
 ## Funzionalità
 - **Ricerca di ricette**: Gli utenti possono cercare ricette vegetariane inserendo parole chiave.
-- **Visualizzazione ricette**: Ogni ricetta mostra un titolo, un’immagine e una breve descrizione.
+- **Visualizzazione ricette**: Ogni ricetta include il titolo e un'immagine.
 - **Dettagli ricetta**: Cliccando su una ricetta, gli utenti possono vedere i dettagli completi, inclusi ingredienti e istruzioni.
 
 ## Tecnologie Utilizzate
